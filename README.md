@@ -6,3 +6,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Guilherme Arruda (@guilhermearruda98, dono)
 * Ramide Dantas (@ramidedantas)
 * TESTE SMARTGIT
+TESTE @
